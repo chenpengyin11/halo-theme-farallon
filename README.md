@@ -12,12 +12,6 @@
 ### 文档：[Farallon 使用文档](https://docs.kunkunyu.com/docs/farallon)
 
 
-### 插件支持
-Farallon 主题支持以下 Halo 插件：
-
-- [X] 友情链接（/links）：https://halo.run/store/apps/app-hfbQg
-- [X] 豆瓣（/douban）：https://www.halo.run/store/apps/app-srBOL
-
 为了获得更好的体验，你还可以安装以下插件（如果需要）：
 - highlight.js 代码高亮：https://halo.run/store/apps/app-sqpgf
 - lightgallery.js 灯箱：https://halo.run/store/apps/app-OoggD
